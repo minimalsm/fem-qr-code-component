@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap");
+
 *,
 *::before,
 *::after {
@@ -54,7 +56,7 @@ article {
 
   text-align: center;
   background-color: var(--clr-white);
-  border-radius: 0.75rem;
+  border-radius: 1rem;
 }
 
 .card__img {
@@ -70,5 +72,5 @@ article {
 
 .card__text {
   margin: 0;
-  max-width: 32ch;
+  max-width: 27ch;
 }
