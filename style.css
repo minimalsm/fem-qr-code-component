@@ -53,10 +53,10 @@ article {
   align-items: center;
   padding: 1rem;
   padding-bottom: 2.5rem;
-
+  border-radius: 1rem;
   text-align: center;
   background-color: var(--clr-white);
-  border-radius: 1rem;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 
 .card__img {
